@@ -1,0 +1,48 @@
+<style>
+	*{
+			box-sizing: border-box;
+		}
+	#navbarheader{
+		background-color: grey;
+		border: 3px solid black;
+		padding:13PX;
+	}
+
+
+	h1{
+		color: solid black;
+		font-weight: bold;
+		float: left;
+	}
+	h2{
+		color: solid black;
+		text-align: center;
+		font-weight: bold;
+		text-shadow: black;
+		text-transform: uppercase;
+		padding-top: 5px;
+	}
+		
+	#box1{
+			background-color: skyblue;
+			border: 1px solid black;
+			padding: 0px;
+			margin:15px;
+			float: left;
+}
+h3{
+	color: solid black;
+		text-align: center;
+
+}
+.navbar-toggler{
+	float: none;
+}	
+ .nav-item {
+ 	background-color: white;
+	text-align: center;
+	border: solid black 2px;
+}	
+
+
+</style>
